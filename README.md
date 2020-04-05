@@ -14,12 +14,12 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Insegnamenti OnLine](https://iol.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. [06/04/20] Introduzione al corso
-   * slide: [Google Slides](https://tinyurl.com/bi1819-00)
+   * slide: [Google Slides](https://tinyurl.com/idbAL-00)
    <hr />
    
 2. [06/04/20] Computer, pensiero computazionale e strutture dati 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-01)
-   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/01.pdf) 
+   * slide: [Google Slides](https://tinyurl.com/idbAL-01)
+   * capitolo: [PDF](docs/chapters/01.pdf) 
    <hr />
 
 ### Calendario
