@@ -1,4 +1,4 @@
-# Informatica di base (a-L) 2019-2020
+# Informatica di base (A-L) 2019-2020
 
 Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso [Informatica di base (A-L)](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2019/438800) della [Laurea in Lettere](https://corsi.unibo.it/laurea/lettere/insegnamenti) dell'[Università di Bologna](http://www.unibo.it).
 
