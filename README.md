@@ -22,9 +22,15 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](docs/chapters/01.pdf) 
    <hr />
 
+3. [07/04/20] Algoritmi e computabilità 
+   * slide: [Google Slides](https://tinyurl.com/idbAL-02v2)
+   * capitolo: [PDF](docs/chapters/02.pdf) 
+   <hr />
+   
 ### Calendario
 
 <table>
     <tr><th>Data</th><th>Titolo</th></tr>
     <tr><td>06/04/20</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
+    <tr><td>07/04/20</td><td>Algoritmi e computabilità</td></tr>
 </table>
