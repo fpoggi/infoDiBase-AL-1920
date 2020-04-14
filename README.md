@@ -26,11 +26,17 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/idbAL-02v2)
    * capitolo: [PDF](docs/chapters/02.pdf) 
    <hr />
-   
+
+4. [14/04/20] Linguaggi di programmazione 
+   * slide: [Google Slides](https://tinyurl.com/idbAL-03)
+   * capitolo: [PDF](docs/chapters/03.pdf) 
+   <hr />
+
 ### Calendario
 
 <table>
     <tr><th>Data</th><th>Titolo</th></tr>
     <tr><td>06/04/20</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
     <tr><td>07/04/20</td><td>Algoritmi e computabilità</td></tr>
+    <tr><td>14/04/20</td><td>Linguaggi di programmazione</td></tr>
 </table>
