@@ -32,6 +32,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](docs/chapters/03.pdf) 
    <hr />
 
+5. [21/04/20] Cosa succede quando si clicca un un link: Il World Wide Web 
+   * slide: [PDF](https://tinyurl.com/idbAL-04v2)
+   * capitolo: [PDF](docs/chapters/04.pdf) 
+   <hr />
+
 ### Calendario
 
 <table>
@@ -39,4 +44,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <tr><td>06/04/20</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
     <tr><td>07/04/20</td><td>Algoritmi e computabilità</td></tr>
     <tr><td>14/04/20</td><td>Linguaggi di programmazione</td></tr>
+    <tr><td>21/04/20</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
 </table>
