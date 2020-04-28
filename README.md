@@ -33,13 +33,18 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
 
 5. [21/04/20] Cosa succede quando si clicca un un link: Il World Wide Web 
-   * slide: [PDF](https://tinyurl.com/idbAL-04v2)
+   * slide: [Google Slides](https://tinyurl.com/idbAL-04v2)
    * capitolo: [PDF](docs/chapters/04.pdf) 
    <hr />
 
 6. [27/04/20] Cosa succede quando si clicca un un link: I protocolli di comunicazione 
-   * slide: [PDF](https://tinyurl.com/idbAL-05)
+   * slide: [Google Slides](https://tinyurl.com/idbAL-05)
    * capitolo: [PDF](docs/chapters/05.pdf) 
+   <hr />
+
+7. [28/04/20] Cosa succede quando si clicca un un link: Internet 
+   * slide: [Google Slides](https://tinyurl.com/idbAL-06v2)
+   * capitolo: [PDF](docs/chapters/06.pdf) 
    <hr />
   
 ### Calendario
@@ -51,4 +56,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <tr><td>14/04/20</td><td>Linguaggi di programmazione</td></tr>
     <tr><td>21/04/20</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
     <tr><td>27/04/20</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
+    <tr><td>28/04/20</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
 </table>
