@@ -46,7 +46,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/idbAL-06v2)
    * capitolo: [PDF](docs/chapters/06.pdf) 
    <hr />
-  
+
+8. [04/05/20] Cosa succede quando si clicca un un link: Trasferire informazioni su Internet 
+   * slide: [Google Slides](https://tinyurl.com/idbAL-07)  
+   * capitolo: [PDF](docs/chapters/07.pdf) 
+   <hr />
+   
 ### Calendario
 
 <table>
@@ -57,4 +62,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <tr><td>21/04/20</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
     <tr><td>27/04/20</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
     <tr><td>28/04/20</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
+    <tr><td>04/05/2020</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
 </table>
