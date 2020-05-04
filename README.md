@@ -56,11 +56,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
 
 <table>
     <tr><th>Data</th><th>Titolo</th></tr>
-    <tr><td>06/04/20</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
-    <tr><td>07/04/20</td><td>Algoritmi e computabilità</td></tr>
-    <tr><td>14/04/20</td><td>Linguaggi di programmazione</td></tr>
-    <tr><td>21/04/20</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
-    <tr><td>27/04/20</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
-    <tr><td>28/04/20</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
+    <tr><td>06/04/2020</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
+    <tr><td>07/04/2020</td><td>Algoritmi e computabilità</td></tr>
+    <tr><td>14/04/2020</td><td>Linguaggi di programmazione</td></tr>
+    <tr><td>21/04/2020</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
+    <tr><td>27/04/2020</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
+    <tr><td>28/04/2020</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
     <tr><td>04/05/2020</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
 </table>
