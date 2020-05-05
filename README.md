@@ -51,7 +51,15 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/idbAL-07)  
    * capitolo: [PDF](docs/chapters/07.pdf) 
    <hr />
-   
+
+9. [05/05/20] Cosa succede quando si clicca un un link: Le pagine web
+   * slide: [Google Slides](https://tinyurl.com/idbAL-08v2) 
+   * capitolo: [PDF](docs/chapters/08.pdf) 
+   * materiale:
+     * [CSS Zen Garden](http://www.csszengarden.com/)
+     * [Esempio](docs/material/example.html) di pagina HTML
+   <hr />
+
 ### Calendario
 
 <table>
@@ -63,4 +71,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <tr><td>27/04/2020</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
     <tr><td>28/04/2020</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
     <tr><td>04/05/2020</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
+    <tr><td>05/05/2020</td><td>Cosa succede quando si clicca un un link: Le pagine web</td></tr>
 </table>
