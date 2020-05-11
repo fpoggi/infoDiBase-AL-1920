@@ -60,6 +60,15 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
      * [Esempio](docs/material/example.html) di pagina HTML
    <hr />
 
+10. [11/05/20] Le tecnologie informatiche nelle scienze umane
+    * slide: [Google Slides](https://tinyurl.com/idbAL-09) 
+    * capitolo: [PDF](docs/chapters/09.pdf) 
+    <hr />
+
+11. [12/05/20] Wrap-up 
+    * [Esercitazione](docs/material/esercitazioneDiagrammiFLusso.pdf) sui diagrammi di flusso (con soluzioni)
+    <hr />
+   
 ### Calendario
 
 <table>
@@ -72,4 +81,6 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <tr><td>28/04/2020</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
     <tr><td>04/05/2020</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
     <tr><td>05/05/2020</td><td>Cosa succede quando si clicca un un link: Le pagine web</td></tr>
+    <tr><td>11/05/2020</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
+    <tr><td>12/05/2020</td><td>Wrap-up</td></tr>
 </table>
