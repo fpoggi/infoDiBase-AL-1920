@@ -66,6 +66,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <hr />
 
 11. [12/05/20] Wrap-up 
+    * slide: [Google Slides](https://tinyurl.com/idbAL-10)
     * [Esercitazione](docs/material/esercitazioneDiagrammiFLusso.pdf) sui diagrammi di flusso (con soluzioni)
     <hr />
    
